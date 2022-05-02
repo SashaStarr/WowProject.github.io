@@ -1,0 +1,65 @@
+#finishback {
+    margin-left: auto;
+    width: 25%;
+    position: relative;
+    background-color: #dd3a3a;
+    color: black;
+    padding: 6px;
+    border-radius: 15px;
+    text-align: center;
+    box-shadow:0px 1px 1px #999999;
+    
+}
+
+#finishtitle {
+    margin-right: 20px;
+    text-align: right;
+    width: 75%;
+    margin-block: 3px;
+}
+
+.finishTitle {
+    position: fixed;
+    padding: 4px;
+    background-color: white;
+    width: 100%;
+    box-shadow:0px 1px 1px #999999;
+    display: inline-flex;
+    
+}
+
+
+#finishContainer{
+    padding-top: 70px;
+}
+
+#mapInput{
+    border-radius: 40px;
+}
+
+
+#Payment{
+
+
+}
+
+#payTitle{
+    font-size: 27px;
+    text-align: center; 
+    padding-top: 30px;
+    padding-bottom: 15px;
+}
+
+#choose{
+    text-align: center;
+    padding: 50px;
+    background-color: rgb(215, 240, 146);
+    border: dotted;
+}
+
+#finishButton{
+    margin-top: 360px;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}

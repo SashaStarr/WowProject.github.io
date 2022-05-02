@@ -1,0 +1,37 @@
+#mainDivAccount {
+    padding-block: 30px;
+    padding-bottom: 62vh;
+}
+
+
+#AccountInfo {
+    background-color: #F6E71D;
+}
+
+#AccountInfoImg {
+    width: 9vh;
+    height: 9vh;
+    float: right;
+}
+
+#AccountInfolist{
+    padding-top: 25px;
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+    display: flex;
+}
+#AccountInfoImg2 {
+    width: 6vh;
+    
+}
+
+
+.List {
+    display: flex;
+}
+
+#none {
+    
+    margin-block: auto;
+}

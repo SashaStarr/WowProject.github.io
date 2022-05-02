@@ -1,0 +1,86 @@
+.shopTitle {
+    position: fixed;
+    padding: 4px; 
+    background-color: white;
+    width: 100%;
+    box-shadow:0px 1px 1px #999999;
+    display: inline-flex;
+     
+}
+
+
+#shopback {
+    margin-left: auto;
+    width: 20%;
+    position: relative;
+    background-color: #999999;
+    color: black;
+    padding: 6px;
+    border-radius: 15px;
+    text-align: center;
+    box-shadow:0px 1px 1px #999999;
+    
+}
+
+#shoptitle {
+    margin-right: 20px;
+    text-align: right;
+    width: 80%;
+    margin-block: 3px;
+}
+
+#DivForItem {
+    text-align: left;
+    margin-block: 25px;
+    width: 100%;
+    box-shadow: 1px 2px 6px 3px #999999;
+    border-radius: 10px;
+    padding-block: 8px;
+}
+
+#imagep{
+    height: 100%;
+    margin: auto;
+}
+
+.ProductName{
+    font-size: 25px;
+    margin-top: 5px;
+}
+.ProductOpis{
+    font-size: 15px;
+    
+    color: #999999;
+}
+.ProductPrice{
+    font-size: 22px;
+    text-align: right;
+    margin-top: 7px;
+}
+#Cenap{
+    display: inline;
+    font-size: 17px;
+    
+    color: #999999;
+}
+
+.ProductButton{
+    text-align: right;
+    padding-block: 6px;
+}
+#addButton {
+    background-color: #F6E71D;
+    border-style: none;
+    padding-block: 6px;
+    padding-inline: 25px;
+    border-radius: 12px;
+    box-shadow:2px 2px 5px #999999;
+}
+
+
+
+#ShopItems{
+    margin-top: 60px;
+    margin-bottom: 110px;
+}
+

@@ -1,0 +1,30 @@
+{
+    "shops": [
+      {
+        "id": 1,
+        "name": "ZABKA",
+        "img": "https://www.pluralsight.com/content/dam/pluralsight2/homepage/flow-demo-thumbnail.png"
+      },
+      {
+        "id": 2,
+        "name": "ZABKA",
+        "img": "https://www.pluralsight.com/content/dam/pluralsight2/homepage/flow-demo-thumbnail.png"
+      },
+      {
+        "id": 3,
+        "name": "ZABKA",
+        "img": "https://www.pluralsight.com/content/dam/pluralsight2/homepage/flow-demo-thumbnail.png"
+      },
+      {
+        "id": 4,
+        "name": "ZABKA",
+        "img": "https://www.pluralsight.com/content/dam/pluralsight2/homepage/flow-demo-thumbnail.png"
+      },
+      {
+        "id": 5,
+        "name": "ZABKA",
+        "img": "https://www.pluralsight.com/content/dam/pluralsight2/homepage/flow-demo-thumbnail.png"
+      }
+    ]
+    
+  }

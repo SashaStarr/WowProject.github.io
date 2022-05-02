@@ -1,0 +1,77 @@
+.SuccesTitle{
+    margin-block: 30px;
+    padding-block: 15px;
+    background-color: #77f14b;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 2px 2px 6px #999999;
+}
+
+#FinishContainer{
+    margin-bottom: 100px;
+}
+
+#FinishTitle{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+#FinishOrderView{
+    box-shadow: 1px 1px 2px 2px #999999;
+    border-radius: 10px;
+    padding-block: 10px; 
+}
+
+#titlefinishorder1{
+    font-size: 20px;
+}
+#titlefinishorder2{
+    font-size: 20px;
+    text-align: right;
+}
+
+#FinishProductList{
+    margin-block: 15px;
+}
+
+#finishAmounth{
+    margin-block: 10px;
+    font-size: 30px;
+}
+
+
+#finishMapTitle{
+    margin-top: 10px;
+    font-size: 20px;
+} 
+
+#FinishMap{
+    box-shadow: 1px 1px 2px 2px #999999;
+    border-radius: 10px;
+    padding-block: 10px; 
+    margin-block: 10px;
+}
+
+#mapImg{
+    width: 100%;
+}
+
+#Close{
+}
+
+#rowClose{
+    margin: auto;
+    width: 400px;
+}
+
+#h1Close{
+    text-align: center;
+    background-color: yellow;
+    border: none;
+    color: black;
+    padding: 12px;
+    margin: 12px;
+    box-shadow: 0 1px 6px #ccc;
+    border-radius: 15px;
+    font-size: 25px;
+}

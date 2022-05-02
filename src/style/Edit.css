@@ -1,0 +1,51 @@
+#containerEdit {
+    margin-block: 25px;
+    margin-bottom: 70ch;
+}
+
+#editRow {
+    box-shadow: 1px 1px 2px 2px #999999;
+    border-radius: 10px;
+    padding-block: 10px; 
+    padding-inline: 20px;
+    margin-bottom: 15px;
+}
+
+.datasEdit { 
+    padding-block: 10px;
+}
+.sumaEdit {
+    padding-block: 10px;
+}
+
+
+#cancelEdit {
+    background-color: #dd3a3a;
+    color: black;
+    padding: 5px;
+    margin: 12px 0;
+    box-shadow: 0 1px 6px #ccc;
+    border-radius: 10px;
+    margin-top: 15px;
+    text-align: center;
+    align-items: center;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#confirmEdit {
+    margin-top: 50px;
+    text-align: center;
+    font-size: 30px;
+    position: relative;
+    background-color: #F6E71D;
+    color: black;
+    padding: 7px;
+    margin: 12px 0;
+    box-shadow: 0 1px 6px #ccc;
+    border-radius: 10px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}

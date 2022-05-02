@@ -1,0 +1,36 @@
+#containerOn {
+    margin-block: 25px;
+}
+
+#ongoindRow {
+    box-shadow: 1px 1px 2px 2px #999999;
+    border-radius: 10px;
+    padding-block: 10px;
+    padding-inline: 20px;
+}
+
+#OngoingLinks { 
+    margin-top: 30px;
+    text-align: center;
+    font-size: 30px;
+}
+
+#edit {
+    background-color: #DADADA;
+    color: black;
+    padding: 7px;
+    margin: 12px 0;
+    box-shadow: 0 1px 6px #ccc;
+    border-radius: 10px;
+}
+
+#confirm {
+    position: relative;
+    right: -20px;
+    background-color: #F6E71D;
+    color: black;
+    padding: 7px;
+    margin: 12px 0;
+    box-shadow: 0 1px 6px #ccc;
+    border-radius: 10px;
+}

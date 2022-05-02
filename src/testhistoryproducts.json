@@ -1,0 +1,16 @@
+{
+    "products": [
+        {
+            "product_id" : "1",
+            "name" : "PRODUCT NAME",
+            "number": "2",
+            "price": "10 zł"
+        },
+        {
+            "product_id" : "1",
+            "name" : "PRODUCT NAME",
+            "number": "4",
+            "price": "100 zł"
+        }
+    ]
+}

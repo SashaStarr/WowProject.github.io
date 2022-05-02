@@ -1,0 +1,14 @@
+#CalculateDiv {
+    box-shadow: 1px 1px 2px 2px #999999;
+    border-radius: 10px;
+    padding: 12px;
+    margin-block: 10px; 
+}
+
+#obnizka {
+    background-color: aqua;
+    border-radius: 10px;
+    padding-inline: 10px;
+    padding-block: 4px;
+    width: 5ch;
+}

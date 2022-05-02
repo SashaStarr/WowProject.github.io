@@ -1,0 +1,23 @@
+
+.Navigation {
+    display: flex;
+    width: 100%;
+    padding-block: 2px;
+    box-shadow: 1px 0px 5px 2px #999999;
+    background-color: white;
+    text-align: center; 
+    position: fixed;
+    bottom: 0;
+}
+
+.element {
+    flex: 1;
+    cursor: pointer;
+    padding: 5px;
+    text-decoration: none;
+    color: black;
+}
+
+#buttonStyle {
+    width: 40px;
+}

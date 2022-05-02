@@ -1,0 +1,26 @@
+#HistoryView {
+    padding-top: 20px;
+    padding-bottom: 90px;
+}
+
+#HistoryTitle {
+    padding-bottom: 10px;
+}
+
+.OrderView {
+    box-shadow: 1px 1px 2px 2px #999999;
+    border-radius: 10px;
+    padding: 12px;
+    margin-block: 12px;
+}
+
+.OrderTitle {
+    text-align: start;
+}
+.OrderDate {
+    text-align: end;
+}
+.OrderAmount {
+    
+    text-align: end;
+}
